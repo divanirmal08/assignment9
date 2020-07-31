@@ -1,0 +1,20 @@
+{
+  "name": "assignment9",
+  "version": "1.0.0",
+  "description": "",
+  "main": "assignment9.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "api",
+    "node"
+  ],
+  "author": "",
+  "license": "ISC"
+}
